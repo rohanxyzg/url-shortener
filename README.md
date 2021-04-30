@@ -13,4 +13,9 @@ $ cd url-shortener
 $ go get -u ./... # to install the packages
 ```
 
+## Run
+```bash
+$ go run main.go
+```
+
 Now, simply go to http://localhost:8080 to see the result!
