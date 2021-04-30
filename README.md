@@ -1,7 +1,7 @@
 <div align='center'>
 
 # URL-shortener in Go
-### [view this project on Youtube](https://youtu.be/bQ-ciRZ5fVQ)
+
 
 </div>
 
