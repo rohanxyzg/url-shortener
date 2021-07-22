@@ -8,7 +8,7 @@ require (
 	github.com/gofrs/flock v0.8.0 // indirect
 	github.com/google/uuid v1.2.0
 	github.com/klauspost/compress v1.12.2 // indirect
-	github.com/prologic/bitcask v0.3.10
+	git.mills.io/prologic/bitcask v0.3.10
 	github.com/valyala/fasthttp v1.24.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	golang.org/x/exp v0.0.0-20210429022752-aa422307df1f // indirect
